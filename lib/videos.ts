@@ -38,7 +38,7 @@ const VIDEOS: VideoType[] = [
   },
   {
     id: "2",
-    youtubeId: "dQw4w9WgXcQ",
+    youtubeId: "nP0gDV0xDLY",
     title: "JEE Chemistry: Organic Chemistry Fundamentals",
     description:
       "Learn the basics of organic chemistry including nomenclature, reactions, and mechanisms. Essential for JEE Main and Advanced.",

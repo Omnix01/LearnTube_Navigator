@@ -6,7 +6,7 @@ import type { VideoType } from "./types"
 const VIDEOS: VideoType[] = [
   {
     id: "1",
-    youtubeId: "dQw4w9WgXcQ",
+    youtubeId: "2k_1dQH4mYw",
     title: "JEE Physics: Understanding Kinematics and Motion",
     description:
       "This comprehensive lecture covers the fundamentals of kinematics, including displacement, velocity, and acceleration. Perfect for JEE preparation.",
